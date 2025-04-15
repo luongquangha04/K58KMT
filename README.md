@@ -42,10 +42,10 @@ TAO BANG THOI KHOA BIEU
 BANG DIAGRAM
 ![image](https://github.com/user-attachments/assets/3ef870ac-5b6c-4366-9511-12d61b8bdc50)
 
-CAU LENH DUA RA DANH SACH 
+CAU LENH DANH SACH
 ![image](https://github.com/user-attachments/assets/b18a7e72-d72b-4486-88dc-4d382f2071f3)
 
-CAU LENH TRUY VAN 
+CAU LECH TRUY VAN
 ![image](https://github.com/user-attachments/assets/4efbe27a-37d3-498b-8bc2-39894c651dc0)
 
 
